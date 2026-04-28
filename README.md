@@ -119,8 +119,4 @@ This project leverages **Puter AI** for on-device/low-latency AI processing. Ens
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-<p align="center">
-  Built with ❤️ by the ScanHire AI Team
-</p>
